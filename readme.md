@@ -13,3 +13,6 @@ port=8888;9999;10001
 ``
 - 4.使用java -jar 对程序进行启动。
 - 5.在本地机器对测试机器进行telnet测试。
+
+- macos或者linux可以使用nmap进行批量扫描
+> nmap -sT IP
